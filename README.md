@@ -16,7 +16,7 @@
 
 <p align="left"> Languages and Tools
 <p align="left">
-<img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,git,github" />
+<img src="https://skillicons.dev/icons?i=python,mysql,postgres,git,github&theme=light" />
 </p>
 My GitHub Stats
 
