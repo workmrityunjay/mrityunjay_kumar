@@ -1,8 +1,8 @@
-Hi<img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif">My name is Mrityunjay Kumar
+<h1 align="left"> Hi <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif">My name is Mrityunjay Kumar</h1>
+<h3 align="left">Data Scientist and Business analyst</h3>
 
-Data Scientist and Business analyst
 
-Recent graduate with a Bachelor's degree in Computer Science & Engineering and a certificate in Data Analytics from a renowned education platform, Almabetter. Throughout my academic and professional careers, I developed a variety of soft skills, including group discussions, presentations, communications, time management, team management, and most importantly Teamwork. I am an excellent communicator and problem-solver with a passion for using data to drive business growth and improve operational efficiency. Skilled in data cleaning, manipulation, visualization and build machine learning models using tools like Python, SQL, Excel, Tableau and PowerBI. Seeking opportunities in data scientist to apply my skills and knowledge in a professional setting and eager to learn and grow in a fast-paced, data-driven environment.
+<p align="left">Recent graduate with a Bachelor's degree in Computer Science & Engineering and a certificate in Data Analytics from a renowned education platform, Almabetter. Throughout my academic and professional careers, I developed a variety of soft skills, including group discussions, presentations, communications, time management, team management, and most importantly Teamwork. I am an excellent communicator and problem-solver with a passion for using data to drive business growth and improve operational efficiency. Skilled in data cleaning, manipulation, visualization and build machine learning models using tools like Python, SQL, Excel, Tableau and PowerBI. Seeking opportunities in data scientist to apply my skills and knowledge in a professional setting and eager to learn and grow in a fast-paced, data-driven environment.</p>
 
 🌍 I'm based in Gurgaon, India.
 
@@ -14,10 +14,16 @@ Recent graduate with a Bachelor's degree in Computer Science & Engineering and a
 
 ✉️ You can contact me at workmrityunjay@gmail.com
 
-Languages and Tools
-
+<p align="left"> Languages and Tools
 <p align="left">
-<a href="https://www.microsoft.com/en-us/sql-server">
-  <img src="https://novastor.com/en/features/sql-server-backup"/>
-</a>
+<img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,git,github" />
+</p>
+My GitHub Stats
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=workmrityunjay&show_icons=true" />
+</p>
+
+<p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=workmrityunjay" />
 </p>
