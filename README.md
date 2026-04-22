@@ -13,3 +13,11 @@ Recent graduate with a Bachelor's degree in Computer Science & Engineering and a
 </p>
 
 ✉️ You can contact me at workmrityunjay@gmail.com
+
+Languages and Tools
+
+<p align="left">
+<a href="https://www.microsoft.com/en-us/sql-server">
+  <img src="https://novastor.com/en/features/sql-server-backup"/>
+</a>
+</p>
