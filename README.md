@@ -6,6 +6,10 @@ Recent graduate with a Bachelor's degree in Computer Science & Engineering and a
 
 🌍 I'm based in Gurgaon, India.
 
-🖥️ See my portfolio at linked in profile <a href="linkedin.com/in/mrityunjay-k-0593b8133">
+🖥️ See my portfolio at linked in profile <p align="left">
+<a href="https://linkedin.com/in/mrityunjay-k-0593b8133">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+</p>
 
 ✉️ You can contact me at workmrityunjay@gmail.com
